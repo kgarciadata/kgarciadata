@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgarciadata
-- 👀 I’m interested in Spending time with my fiancee and 3 dogs
-- 🌱 I’m currently learning the ins and outs of Data Analyrics 
+- 👀 I’m interested in spending time with my fiancee and 3 dogs
+- 🌱 I’m currently learning the ins and outs of Data Analytics 
 - 📫 How to reach me kargarcia@rocketmail.com
 
 <!---
